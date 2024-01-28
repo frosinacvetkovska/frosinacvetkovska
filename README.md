@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- Name -->
+# Hello, I'm Frosina! 👋
 
-<!--
-**frosinacvetkovska/frosinacvetkovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Contribution Streak Section with Purple Background -->
+<div align="center" style="background-color: purple; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frosinacvetkovska&theme=modern-lilac2&card_width=600&card_height=1800" alt="frosinacvetkovska's GitHub Streak"/>
+</div>
 
-Here are some ideas to get you started:
+<!-- Gif Section -->
+## About Me
+- 🔭 I’m currently working on Indoor/Outdoor Classification in Python
+- 🌱 I’m currently learning Python, Next.js and AWS
+- 💬 Ask me about UX/UI Design, DevOps, AI and Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GIF -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR3djluaDhubXAxajNuNWdpMjRtem41YnNndHQ4b3Njb2JrbmxybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xIAka4gHdlRt3a/giphy.gif" alt="Penguin GIF" width="400"/>
+</p>
+
