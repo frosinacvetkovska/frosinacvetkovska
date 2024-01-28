@@ -9,7 +9,7 @@
 <!-- Gif Section -->
 ## About Me
 - 🔭 I’m currently working on Indoor/Outdoor Classification in Python
-- 🌱 I’m currently learning Python, Next.js and AWS
+- 🌱 I’m currently learning Python and AWS
 - 💬 Ask me about DevOps, AI and Robotics, UX/UI and Design in general 
 
 <!-- GIF -->
