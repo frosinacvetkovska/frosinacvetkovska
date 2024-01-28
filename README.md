@@ -10,7 +10,7 @@
 ## About Me
 - 🔭 I’m currently working on Indoor/Outdoor Classification in Python
 - 🌱 I’m currently learning Python, Next.js and AWS
-- 💬 Ask me about UX/UI Design, DevOps, AI and Robotics
+- 💬 Ask me about DevOps, AI and Robotics, UX/UI and Design in general 
 
 <!-- GIF -->
 <p align="center">
