@@ -8,7 +8,7 @@
 
 <!-- Gif Section -->
 ## About Me
-- 🔭 I’m currently working on Creating Udemy clone using Spring Boot, React and Postgresql 
+- 🔭 I’m currently working on Updating MealPlus Project
 - 🌱 I’m currently learning Python and AWS
 - 💬 Ask me about DevOps, AI and Robotics, UX/UI and Design in general 
 
