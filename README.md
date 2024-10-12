@@ -3,8 +3,8 @@
 
 <!-- Gif Section -->
 ## About Me
-- 🔭 I’m currently working on Updating MealPlus Project
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on Personal Portfolio
+- 🌱 I’m currently learning NextJS
 - 💬 Ask me about DevOps, AI and Robotics, UX/UI and Design in general 
 
 <!-- GIF -->
